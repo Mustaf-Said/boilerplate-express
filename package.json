@@ -2,6 +2,7 @@
   "name": "fcc-learn-node-with-express",
   "version": "0.1.0",
   "dependencies": {
+    "@freecodecamp/example": "~1.2.13",
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
     "dotenv": "^16.0.1",
